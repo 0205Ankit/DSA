@@ -8,4 +8,4 @@ create:
 	@mkdir -p $(folder)/javascript
 	@touch $(folder)/C++/solution.cpp
 	@touch $(folder)/javascript/solution.js
-	@touch $(folder)/Readme.md
+	@touch $(folder)/readme.md
