@@ -1,3 +1,5 @@
+// selection sort - find the minimum and swap it
+
 function selectionSort() {
   const arr = [3, 12, 8, 4, 11, 1, 25];
 
