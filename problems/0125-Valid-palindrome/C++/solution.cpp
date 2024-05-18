@@ -1,4 +1,9 @@
 // using two pointer to check the palindrome
+#include <vector>
+#include <string>
+#include <iostream>
+
+using namespace std;
 
 class Solution
 {
